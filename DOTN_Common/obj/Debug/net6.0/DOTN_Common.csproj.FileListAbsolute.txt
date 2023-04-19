@@ -1,0 +1,12 @@
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\bin\Debug\net6.0\DOTN_Common.deps.json
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\bin\Debug\net6.0\DOTN_Common.dll
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\bin\Debug\net6.0\DOTN_Common.pdb
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.csproj.AssemblyReference.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.AssemblyInfoInputs.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.AssemblyInfo.cs
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.csproj.CoreCompileInputs.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.dll
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\refint\DOTN_Common.dll
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\DOTN_Common.pdb
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_Common\obj\Debug\net6.0\ref\DOTN_Common.dll

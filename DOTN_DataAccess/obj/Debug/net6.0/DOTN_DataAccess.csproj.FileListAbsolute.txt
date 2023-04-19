@@ -1,0 +1,14 @@
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\bin\Debug\net6.0\DOTN_DataAccess.deps.json
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\bin\Debug\net6.0\DOTN_DataAccess.runtimeconfig.json
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\bin\Debug\net6.0\DOTN_DataAccess.dll
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\bin\Debug\net6.0\DOTN_DataAccess.pdb
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.csproj.AssemblyReference.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.AssemblyInfoInputs.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.AssemblyInfo.cs
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.csproj.CoreCompileInputs.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.dll
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\refint\DOTN_DataAccess.dll
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.pdb
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\DOTN_DataAccess.genruntimeconfig.cache
+C:\DOKUMENTACIJA\FAX\DOTN\2022-2023\Aplikacije\DOTN\DOTN_DataAccess\obj\Debug\net6.0\ref\DOTN_DataAccess.dll

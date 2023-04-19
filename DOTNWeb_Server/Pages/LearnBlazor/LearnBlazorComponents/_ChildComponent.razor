@@ -1,0 +1,26 @@
+﻿
+<div>
+
+    <div class="alert alert-info">@Title</div>
+    <div class="alert alert-success">
+
+        @*Ako je nešto proslijeđeno prikaži to, u suprotnom stavi neku default poruku*@
+        @if(ChildContent != null)
+        {
+            <span>@ChildContent</span>
+        }
+        else
+        {
+            <span>Hello from empty render fragment</span>
+        }
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string Title { get; set; }
+
+    //Parametar koji će uloviti sve ono što se proslijedi iz Parenta između tagova
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+}

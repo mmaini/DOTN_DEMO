@@ -1,0 +1,16 @@
+﻿@page "/learnBlazor/parentComponent"
+
+<h3>Parent child relation</h3>
+
+@*Child component kojoj proslijeđujemo nešto između tagova*@
+<_ChildComponent Title="This title is passed as parameter from Parent Component">
+    Render Fragment from Parent!
+    </_ChildComponent>
+
+@*Child component kojoj ne proslijeđujemo ništa između tagova*@
+<_ChildComponent Title="This is second child component">
+    </_ChildComponent>
+
+@code {
+
+}

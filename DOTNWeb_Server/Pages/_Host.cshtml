@@ -1,0 +1,12 @@
+﻿@* route path - inicijalna stranica *@
+@page "/"
+@namespace DOTNWeb_Server.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    //default master stranica
+    Layout = "_Layout";
+}
+
+@* Pozivamo glavnu komponentu *@
+@* Koristimo server pa je server prerendered - renderira se na serveru i šalje klijentu *@
+<component type="typeof(App)" render-mode="ServerPrerendered" />

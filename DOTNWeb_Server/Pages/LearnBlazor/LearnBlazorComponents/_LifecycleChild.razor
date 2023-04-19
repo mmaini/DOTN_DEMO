@@ -1,0 +1,27 @@
+﻿<h3>_LifecycleChild</h3>
+
+@foreach(var item in EventType)
+{
+    @item
+    <hr/>
+}
+
+@code {
+
+    [Parameter]
+    public int CountValue { get; set; }
+
+    List<string> EventType = new List<string>();
+
+    //OnInitialized i OnInitializedAsync u childu će biti pozvani prije onih u parentu
+    protected override void OnInitialized()
+    {
+        EventType.Add("Child - OnInitialized is called");
+    }
+
+    protected override void OnParametersSet()
+    {
+       EventType.Add("Child - OnParametersSet is called");
+    }
+
+}

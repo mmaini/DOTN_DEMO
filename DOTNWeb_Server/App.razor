@@ -1,0 +1,21 @@
+﻿@* glavna komponenta - zadužena za routing *@
+
+
+<CascadingAuthenticationState>
+    <Router AppAssembly="@typeof(App).Assembly">
+        @* Ako pronađe - prikaži tu stranicu *@
+        <Found Context="routeData">
+            @* Default Layout - ako stranica nema definiran neki Layout, možemo definirati default *@
+            <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+            <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+        </Found>
+        @* Za slučaj da ne pronađe - prikaži default poruku *@
+        <NotFound>
+            <PageTitle>Not found</PageTitle>
+            <LayoutView Layout="@typeof(MainLayout)">
+                <p role="alert">Sorry, there's nothing at this address.</p>
+            </LayoutView>
+        </NotFound>
+    </Router>
+</CascadingAuthenticationState>
+
